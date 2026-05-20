@@ -1,0 +1,20 @@
+{
+  "name": "sebi-skills",
+  "owner": {
+    "name": "Anjan Roy",
+    "url": "https://anjanroy.in"
+  },
+  "metadata": {
+    "description": "Claude plugins encoding SEBI regulatory frameworks for Indian capital markets",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "sebi-algo-trading-2026",
+      "source": "./plugins/sebi-algo-trading-2026",
+      "description": "SEBI's framework for retail algorithmic trading, effective 1 April 2026",
+      "version": "0.1.0",
+      "category": "compliance"
+    }
+  ]
+}
