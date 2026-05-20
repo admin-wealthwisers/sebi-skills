@@ -1,0 +1,20 @@
+{
+  "name": "sebi-algo-trading-2026",
+  "version": "0.1.0",
+  "description": "Encodes SEBI's February 2025 circular and NSE May 2025 Implementation Standards on retail algorithmic trading. Loads when Claude is helping with Indian broker API integration, trading strategy classification, algo deployment compliance, or related conversations.",
+  "author": {
+    "name": "Anjan Roy",
+    "url": "https://anjanroy.in"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sebi",
+    "nse",
+    "algo-trading",
+    "india",
+    "bfsi",
+    "compliance",
+    "regulatory",
+    "ai-governance"
+  ]
+}
